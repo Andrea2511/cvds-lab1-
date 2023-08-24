@@ -2,6 +2,13 @@
 
 `Print("Hello CVDS")`
 
+## Trabajo en clase:
+
+![principal](principal.jpg)
+
+![remoto](remoto.jpg)
+
+
 ## Información importante:
 
 * **Edad =** 20 años
